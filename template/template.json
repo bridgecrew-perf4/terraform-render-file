@@ -1,0 +1,15 @@
+{
+  "url" : ${url},
+  "size" : ${size},
+  "email" : ${email},
+  "firstName" : ${firstName},
+  "lastName" : ${lastName},
+  "address" : ${address},
+  "city" : ${city},
+  "zip" : ${zip},
+  "phone" : ${phone},
+  "card number" : ${cardNum},
+  "card name" : ${cardName},
+  "card expiry" : ${cardExp},
+  "ccv" : ${ccv}
+}
